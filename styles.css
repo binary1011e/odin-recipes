@@ -1,0 +1,17 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+.title {
+    background-color: rgb(228, 169, 31);
+    color: black;
+    margin: auto;
+    text-align: center;
+    font-size: 50px;
+}
+.green {
+    background-color: green;
+    color:rgba(255, 255, 255, 0.738);
+}
+h3 {
+    color:rgb(228, 169, 31);
+}
