@@ -3,10 +3,20 @@
 }
 .title {
     background-color: rgb(228, 169, 31);
-    color: black;
+    color: rgb(73, 46, 46);
     margin: auto;
     text-align: center;
     font-size: 50px;
+    border: 5px solid rgb(112, 111, 111);
+}
+.list {
+    margin: 120px 0px;
+    border: 2px solid black;
+    padding: 6px;
+    width:max-content;
+}
+#gb {
+    margin: 0px;
 }
 .green {
     background-color: green;
